@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: red;
+    width: 100%;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card {
+    border: black 1px solid;
+    width: fit-content;
+    margin: 20px;
+}
+h3 {
+    padding: 10px 40px;
+    border: solid black 1px;
+    font-size: 45px;
+    background-color: blue;
+}
+span{
+    font-size: 30px;
+    border: 1px solid black;
+    width: 100%;
+}
