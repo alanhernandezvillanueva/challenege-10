@@ -14,18 +14,17 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 .card {
-    border: black 1px solid;
-    width: fit-content;
-    margin: 20px;
+ 
+   width: 18rem;
+   display: inline-block;
+   margin-top: 0;
 }
-h3 {
-    padding: 10px 40px;
-    border: solid black 1px;
-    font-size: 45px;
-    background-color: blue;
+.card-header{
+    background-color: rgb(63, 139, 201);
+}
+h3{
+    color: white;
 }
 span{
-    font-size: 30px;
-    border: 1px solid black;
-    width: 100%;
+    color: white;
 }
